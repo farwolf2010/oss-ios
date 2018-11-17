@@ -11,9 +11,9 @@ Pod::Spec.new do |s|
                     Handle the data.
                    DESC
 
-  s.homepage     = "http://csdn.net/veryitman"
+  s.homepage     = "https://github.com/farwolf2010/oss-ios.git"
   s.license      = "MIT"
-  s.author             = { "veryitman" => "veryitman@126.com" }
+  s.author             = { "zjr" => "362675035@qq.com" }
   s.source       = { :git => "", :tag => "0.0.1" }
   s.source_files  = "Source", "oss/**/*.{h,m}"
   s.exclude_files = "Source/Exclude"
